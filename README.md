@@ -1,4 +1,4 @@
-# NVCT_Webscraper
+# NVCT_Webscraper :earth_americas:
 A simple web scraper that extracts names and mailing addresses of parcel owners in multiple Northern Virginia counties. Developed for the Northern Virginia Conservation Trust (NVCT) in summer 2021, to reach out to owners of land parcels that are identified as high priority for environmental conservation.
 
 This is what the first screen of the GUI looks like:
@@ -12,7 +12,7 @@ Then, this final screen of the GUI will appear, after which the program is compl
 
 Done in Jupyter Notebook for readability. Converted Python file to an executable file including dependencies for usability.
 
-[Link](https://tinyurl.com/nvctscraper) to webscraper guide for users: https://tinyurl.com/nvctscraper
-Used [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) to convert Python file to executable
-Used [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to scrape data
+[Link](https://tinyurl.com/nvctscraper) to webscraper guide for users: https://tinyurl.com/nvctscraper \
+Used [auto-py-to-exe](https://pypi.org/project/auto-py-to-exe/) to convert Python file to executable\
+Used [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to scrape data\
 Northern Virginia Conservation Trust [website](https://www.nvct.org/)
